@@ -2,7 +2,7 @@
 Calculates your Carleton CGPA
 
 ## Run: python ./CGPA.py
-<br>
+
 ### Instructions: <br>
 Enter the "letter grade" for your courses <br>
 Enter "calc" when want to calculate your CGPA <br>
