@@ -5,5 +5,5 @@ Calculates your Carleton CGPA
 
 ### Instructions: <br>
 Enter the "letter grade" for your courses <br>
-Enter "calc" when want to calculate your CGPA <br>
+Enter "calc" when you want to calculate your CGPA <br>
 Note: enter the letter grade for your full credit courses twice
